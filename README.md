@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi , I'm Bhabana Samantara </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!-- <h3 align="center"> I am a professional Web Developer based in India and i have been building UX/UI designs and websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. </h3> -->
+<!-- <h3 align="center"> I am a professional Web Developer based in India and I have been building UX/UI designs and websites for years, which comply with the latest design trends. I help convert a vision and an idea into meaningful and useful products. </h3> -->
 
 ## **About me**
 <picture> <img align="right" src="https://user-images.githubusercontent.com/79373383/211147526-f781ee14-445b-43f3-8615-f24738e97767.gif" width = 250px></picture>
 
 
-- 🔭 I’m currently working on Web Developement.
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning AWS cloud
-- 💬 Ask me about HTMLS,CSS,BOOTSTRAP,JavaScript,PHP,Laravel,MySQL
+- 💬 Ask me about Linux, Docker, Kubernetes, and Terraform.
 
 📫 Feel free to reach me:
 
